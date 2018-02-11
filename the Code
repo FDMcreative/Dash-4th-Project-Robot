@@ -166,7 +166,7 @@ $('body').css('background', randomRGBA);
 //  alert(randomRGBA);
 });
 
-//this start/stops the dance
+//this puts or removethe dancer
 $('.moves').click(function() {
   $('img').toggle();
 });
